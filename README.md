@@ -1,5 +1,5 @@
 # RECIPE WEBSITE
-[TERMINAL AND GITHUB help](https://github.com/hello-world-tech-studios/terminal-and-github-help)
+[TERMINAL AND GITHUB help](https://github.com/hw-studio-fall17/terminal-github-commands-help)
 
 #### Your mission is create a webpage for your favorite recipe.
 1. Find a recipe you would like to use.
@@ -23,5 +23,14 @@ Your recipe page must include the following:
 
 >  *Confused by the nutritional facts? Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe.* 
 
-
 > *HINT!!! you will be using `<form>` & google is your friend*
+
+## Troubleshooting checklist (please go through this checklist before asking for help!):
+1. Explain your problem to ____
+2. Did you save your code?
+3. Do you have all of your code inside of the body element properly indented?
+     ```<body>
+            your code goes here.
+        </body>```
+4. Do all of your HTML elements have an opening tag and a closing tag? (Except for `<img>` !)
+5. Are you using `start recipe.html` to see your page in Chrome?
