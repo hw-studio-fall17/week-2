@@ -29,8 +29,9 @@ Your recipe page must include the following:
 1. Think through your problem and explain quietly it to your imaginary friend.
 2. Did you save your code?
 3. Do you have all of your code inside of the body element properly indented?
-     ``` <body>
-            your code goes here.
+     ``` HTML
+        <body>
+          your code goes here.
         </body> ```
 4. Do all of your HTML elements have an opening tag and a closing tag? (Except for `<img>` !)
 5. Did you refresh your Chrome webpage?
