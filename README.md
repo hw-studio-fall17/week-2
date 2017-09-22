@@ -23,14 +23,15 @@ Your recipe page must include the following:
 
 >  *Confused by the nutritional facts? Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe.* 
 
-> *HINT!!! you will be using `<form>` & google is your friend*
 
-## Troubleshooting checklist (please go through this checklist before asking for help!):
-1. Explain your problem to ____
+## Troubleshooting checklist 
+##### Please go through this checklist before asking for help!
+1. Think through your problem and explain quietly it to your imaginary friend.
 2. Did you save your code?
 3. Do you have all of your code inside of the body element properly indented?
-     ```<body>
+     ``` <body>
             your code goes here.
-        </body>```
+        </body> ```
 4. Do all of your HTML elements have an opening tag and a closing tag? (Except for `<img>` !)
-5. Are you using `start recipe.html` to see your page in Chrome?
+5. Did you refresh your Chrome webpage?
+6. Still stuck? Ask an instructor for help!
