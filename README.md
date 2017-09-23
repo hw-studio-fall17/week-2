@@ -44,4 +44,5 @@ Your recipe page must include the following:
 * Login
     - username: yourfirstname_yourlastname
     - password: hwstudio5122
+* Click on our Web Development classroom
 * Find the week 2 assignment
