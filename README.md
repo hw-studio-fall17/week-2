@@ -36,3 +36,12 @@ Your recipe page must include the following:
 4. Do all of your HTML elements have an opening tag and a closing tag? (Except for `<img>` !)
 5. Did you refresh your Chrome webpage?
 6. Still stuck? Ask an instructor for help!
+
+
+
+## WEEK 2: HOMEWORK!
+* Go to www.repl.it
+* Login
+    - username: yourfirstname_yourlastname
+    - password: hwstudio5122
+* Find the week 2 assignment
